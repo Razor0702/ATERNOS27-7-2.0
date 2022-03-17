@@ -1,0 +1,13 @@
+{
+    "ip": "RICCI_2_Public_SMP.aternos.me",
+    "port": "24663",
+    "name": "APlayerThatsABot",
+    "auto-night-skip": "false",
+    "prefix": "",
+    "login-enabled": "true",
+    "register-cmd": "/login kartikopp kartikopp",
+    "login-cmd": "/login kartikopp",
+    "loginmsg": "",
+    "auto-reconnect": "true"
+}
+
