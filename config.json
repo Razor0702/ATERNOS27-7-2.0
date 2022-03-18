@@ -3,7 +3,7 @@
     "port": "24663",
     "name": "APlayerThatsABot",
     "auto-night-skip": "false",
-    "prefix": "",
+    "prefix": "OwO",
     "login-enabled": "true",
     "register-cmd": "/login kartikopp kartikopp",
     "login-cmd": "/login kartikopp",
